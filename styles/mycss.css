@@ -7,6 +7,9 @@ h1 {
 h2{
     font: 32px Museo Slab, serif;
 }
+h3{
+    font: 32px Museo Slab bold, serif;
+}
 p{
     font: 16px Verdana, sans-serif;
 }
