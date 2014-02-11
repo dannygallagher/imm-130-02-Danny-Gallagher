@@ -1,10 +1,15 @@
-/*this is my style sheet*/
-<h1 id="mine">My Heading</h1>
 
-<h1 id="yours">Your Heading</h1>
-<h1>That Other Heading</h1>
-
-<p> this is my paragraph. I am my paragraph, my paragraph is me. Without my paragaph, I am nothing. Without me, my paragraph is nothing.</p>
 * {
 font-family: Arial, Helvetica, sans-serif
+}
+h1 {
+    font: 40px Palatino, serif;
+}
+
+p{
+    font: 18px Verdana, sans-serif;
+}
+
+a{
+  font: 24px Verdana bold, sans-serif;
 }
