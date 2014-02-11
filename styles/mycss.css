@@ -18,6 +18,15 @@ a{
 #description{
     font: 16px Verdana bold, sans-serif;
 }
+#descriptionmain{
+    font: 16px Verdana bold, sans-serif;
+}
+#maindescription{
+    font: 16px Verdana bold, sans-serif;
+}
+#descriptionusers{
+    font: 16px Verdana bold, sans-serif;
+}
 #subdescription{
     font: 14px Verdana, sans-serif;
 }
