@@ -1,21 +1,30 @@
+
+
 * {
 font-family: Arial, Helvetica, sans-serif
 }
 h1 {
-    font: 56px Museo Slab bold, serif;
+    font: 50px Museo Slab bold, serif;
 }
 h2{
-    font: 32px Museo Slab, serif;
+    font: 37px Museo Slab, serif;
 }
 h3{
-    font: 32px Museo Slab, bold, serif;
+    font: 28px Museo Slab, bold, serif;
 }
 p{
     font: 16px Verdana, sans-serif;
 }
+li{
+font: 16px Verdana, sans-serif;    
+}
+
+.page-footer{
+    font: 12px Verdana, sans-serif;
+}
 
 a{
-  font: 16px Verdana bold, sans-serif;
+  font: 12px Verdana, sans-serif;
 }
 
 .description{
@@ -24,4 +33,85 @@ a{
 
 .subdescription{
     font: 14px Verdana, sans-serif;
+}
+#wrapper {
+    width: 500px;
+    margin: 10px auto 10px auto;  
+    /* top, right, bottom, left */
+    height: 1000px;
+    background:#ffffff;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+   
+    text-align: right;
+}
+
+.page-header{
+     background:#ffffff;
+}
+.page-title{
+ color: #000000;   
+}
+
+.article-header {
+    background:#ffffff;
+    text-align: left;
+}
+
+aside {
+    border: 1px solid #000000;
+    background:#dddddd;
+    /*color:#ffffff;*/
+  height:225px;
+    width:164px;
+    float: left;
+    text-align:left;
+}
+nav{
+    text-align:center;
+    background:#000000;
+}
+ul{
+    list-style-type:none;
+}
+
+
+    .navigation{
+ width:500px;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    background:#000000;
+    }
+    .navlist{
+    display:inline;
+    float:left;
+}
+a{
+    
+    display: block;
+    width:125px;
+    background:#000000;
+    color:#ffffff;
+    }
+    
+
+
+
+article {
+    
+    background: #ffffff;
+    width:331px;
+    height:300px;
+    float: left;
+}
+
+#page-footer {
+    border: 1px solid #000000;
+    clear: left;
+    background:#dddddd;
+    /*color:#ffffff;*/
 }
