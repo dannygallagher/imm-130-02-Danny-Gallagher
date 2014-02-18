@@ -1,5 +1,4 @@
 
-
 * {
 font-family: Arial, Helvetica, sans-serif
 }
@@ -10,7 +9,7 @@ h2{
     font: 37px Museo Slab, serif;
 }
 h3{
-    font: 28px Museo Slab, bold, serif;
+    font: 37px Museo Slab, bold, serif;
 }
 p{
     font: 16px Verdana, sans-serif;
@@ -35,7 +34,7 @@ a{
     font: 14px Verdana, sans-serif;
 }
 #wrapper {
-    width: 500px;
+    width: 980px;
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
     height: 1000px;
@@ -65,8 +64,8 @@ aside {
     border: 1px solid #000000;
     background:#dddddd;
     /*color:#ffffff;*/
-  height:225px;
-    width:164px;
+  height:243px;
+    width:324px;
     float: left;
     text-align:left;
 }
@@ -80,7 +79,7 @@ ul{
 
 
     .navigation{
- width:500px;
+ width:980px;
     list-style-type:none;
     margin:0;
     padding:0;
@@ -93,7 +92,7 @@ ul{
 a{
     
     display: block;
-    width:125px;
+    width:245px;
     background:#000000;
     color:#ffffff;
     }
@@ -104,8 +103,8 @@ a{
 article {
     
     background: #ffffff;
-    width:331px;
-    height:300px;
+    width:653px;
+    height:490px;
     float: left;
 }
 
