@@ -1,0 +1,27 @@
+* {
+font-family: Arial, Helvetica, sans-serif
+}
+h1 {
+    font: 56px Museo Slab bold, serif;
+}
+h2{
+    font: 32px Museo Slab, serif;
+}
+h3{
+    font: 32px Museo Slab, bold, serif;
+}
+p{
+    font: 16px Verdana, sans-serif;
+}
+
+a{
+  font: 16px Verdana bold, sans-serif;
+}
+
+.description{
+    font: 16px Verdana bold, sans-serif;
+}
+
+.subdescription{
+    font: 14px Verdana, sans-serif;
+}
