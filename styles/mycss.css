@@ -14,7 +14,7 @@ p{
     font: 16px Verdana, sans-serif;
 }
 .aside-text{
-}
+font: 16px Verdana bold, sans-serif
 }
 li{
 font: 16px Verdana, sans-serif;    
@@ -69,6 +69,7 @@ aside {
   height:432px;
     width:324px;
     float: left;
+    margin: 10px 0px 0px 0px;
     text-align:left;
    
 }
