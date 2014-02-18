@@ -36,7 +36,7 @@ a{
     width: 980px;
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
-    height: 1250px;
+    height: 1100px;
     background:#ffffff;
 }
 
@@ -104,7 +104,7 @@ article {
     
     background: #ffffff;
     width:652px;
-    height:1200px;
+    height:1050px;
     float: left;
 }
 
