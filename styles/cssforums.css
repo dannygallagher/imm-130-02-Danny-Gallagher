@@ -8,7 +8,7 @@ h2{
     font: 37px Museo Slab, serif;
 }
 h3{
-    font: 37px Museo Slab, bold, serif;
+    font: 28px Verdana, bold serif;
 }
 p{
     font: 16px Verdana, sans-serif;
@@ -36,7 +36,7 @@ a{
     width: 980px;
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
-    height: 1000px;
+    height: 1250px;
     background:#ffffff;
 }
 
@@ -104,7 +104,7 @@ article {
     
     background: #ffffff;
     width:652px;
-    height:870px;
+    height:1200px;
     float: left;
 }
 
