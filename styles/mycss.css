@@ -78,6 +78,10 @@ aside {
 aside li{
     list-style-position:outside;
 }
+
+aside ul{
+    padding:0;
+}
 nav{
     text-align:center;
     background:#000000;
@@ -112,7 +116,7 @@ a{
 article {
     
     background: #ffffff;
-    width:580px;
+    width:600px;
     height:1000px;
     float: left;
     padding left: 30px;
