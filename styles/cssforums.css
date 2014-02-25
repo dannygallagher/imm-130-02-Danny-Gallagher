@@ -67,6 +67,8 @@ aside {
     width:324px;
     float: left;
     text-align:left;
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 0px 10px;
    
 }
 nav{
@@ -106,6 +108,8 @@ article {
     width:652px;
     height:950px;
     float: left;
+    padding left: 30px;
+    padding:0px 15px 0px 15px
 }
 
 #page-footer {
