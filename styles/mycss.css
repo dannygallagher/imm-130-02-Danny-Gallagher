@@ -12,13 +12,15 @@ h3{
 }
 p{
     font: 16px Verdana, sans-serif;
+    color: #000000;
 }
 .aside-text{
 font: 16px Verdana bold, sans-serif
-font-color: #A64B00;
+color: #A64B00;
 }
 li{
-font: 16px Verdana, sans-serif;    
+font: 16px Verdana, sans-serif;
+color:#ffffff;
 }
 
 .page-footer{
@@ -86,7 +88,7 @@ aside ul{
 }
 nav{
     text-align:center;
-    background:#000000;
+    background:#A64b00;
 }
 ul{
     list-style-type:none;
@@ -117,7 +119,7 @@ a{
 
 article {
     
-    background: #ffffff;
+    background: #ffb273;
     width:592px;
     height:1000px;
     float: left;
