@@ -15,6 +15,7 @@ p{
 }
 .aside-text{
 font: 16px Verdana bold, sans-serif
+font-color: #A64B00;
 }
 li{
 font: 16px Verdana, sans-serif;    
@@ -64,7 +65,7 @@ header {
 
 aside {
     border: 1px solid #000000;
-    background:#dddddd;
+    background:#ff7400;
     /*color:#ffffff;*/
   height:432px;
     width:324px;
