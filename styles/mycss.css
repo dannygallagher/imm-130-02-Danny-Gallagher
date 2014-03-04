@@ -70,7 +70,7 @@ header {
 }
 
 aside {
-    border: 1px solid #000000;
+    border: 1px solid #2f8f00;
     background:#48dd00;
     /*color:#ffffff;*/
   height:432px;
@@ -113,9 +113,9 @@ ul{
 a{
     
     display: block;
-    width:245px;
-    background:#000000;
-    color:#2f8f00;
+    width:196px;
+    background:#2f8f00;
+    color:#95ee6b;
     }
     
 
