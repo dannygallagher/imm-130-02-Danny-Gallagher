@@ -11,7 +11,7 @@ h2{
 }
 h3{
     font: 37px Museo Slab, bold, serif;
-    color:#75ee3b;
+    color:#95ee6b;
 }
 p{
     font: 16px Verdana, sans-serif;
@@ -28,6 +28,7 @@ color:#95ee6b;
 
 .page-footer{
     font: 12px Verdana, sans-serif;
+    color: #95ee6b;
 }
 
 a{
@@ -118,7 +119,7 @@ a{
     display: block;
     width:196px;
     background:#2f8f00;
-    color:#75ee3b;
+    color:#95ee6b;
     }
     
 
