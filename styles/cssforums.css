@@ -6,15 +6,19 @@ h1 {
 }
 h2{
     font: 37px Museo Slab, serif;
+    color: #95ee6b;
 }
 h3{
     font: 28px Verdana, bold serif;
+    color: ##2f8f00;
 }
 p{
     font: 16px Verdana, sans-serif;
+    color: #2f8f00;
 }
 li{
-font: 16px Verdana, sans-serif;    
+font: 16px Verdana, sans-serif;
+color: #95ee6b;
 }
 
 .page-footer{
@@ -55,13 +59,13 @@ header {
 }
 
 .article-header {
-    background:#ffffff;
+    background:#95ee6b;
     text-align: left;
 }
 
 aside {
-    border: 1px solid #000000;
-    background:#dddddd;
+    border: 1px solid #2f8f00;
+    background:#2f8f00;
     /*color:#ffffff;*/
   height:432px;
     width:324px;
@@ -73,7 +77,7 @@ aside {
 }
 nav{
     text-align:center;
-    background:#000000;
+    background:#2f8f00;
 }
 ul{
     list-style-type:none;
@@ -85,7 +89,7 @@ ul{
     list-style-type:none;
     margin:0;
     padding:0;
-    background:#000000;
+    background:#2f8f00;
     }
     .navlist{
     display:inline;
@@ -94,9 +98,9 @@ ul{
 a{
     
     display: block;
-    width:245px;
-    background:#000000;
-    color:#ffffff;
+    width:196px;
+    background:#2f8f00;
+    color:#95ee6b;
     }
     
 
@@ -104,7 +108,7 @@ a{
 
 article {
     
-    background: #ffffff;
+    background: #95ee6b;
     width:622px;
     height:950px;
     float: left;
@@ -113,8 +117,8 @@ article {
 }
 
 #page-footer {
-    border: 1px solid #000000;
+    border: 1px solid #2f8f00;
     clear: left;
-    background:#dddddd;
+    background:#2f8f00;
     /*color:#ffffff;*/
 }
