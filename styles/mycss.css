@@ -7,7 +7,7 @@ h1 {
 }
 h2{
     font: 37px Museo Slab, serif;
-    color: #75ee3b;
+    color: #2f8f00;
 }
 h3{
     font: 37px Museo Slab, bold, serif;
@@ -23,7 +23,7 @@ color: #2f8f00;
 }
 li{
 font: 16px Verdana, sans-serif;
-color:#75ee3b;
+color:#95ee6b;
 }
 
 .page-footer{
@@ -118,7 +118,7 @@ a{
     display: block;
     width:196px;
     background:#2f8f00;
-    color:#48dd00;
+    color:#75ee3b;
     }
     
 
