@@ -80,7 +80,7 @@ aside {
   height:432px;
     width:324px;
     float: left;
-    margin: 10px 0px 0px 0px;
+    margin: 10px 0px 0px 10px;
     text-align:left;
     padding: 0px 10px 0px 10px;
    
@@ -153,6 +153,9 @@ article {
     aside{
         width:30%;
     }
+    ul{
+        width:94%;
+    }
 }
 
 @media screen and (max-width:786px){
@@ -162,6 +165,10 @@ article {
         
     }
     aside{
+        width:auto:
+        float:none;
+    }
+    ul{
         width:auto:
         float:none;
     }
