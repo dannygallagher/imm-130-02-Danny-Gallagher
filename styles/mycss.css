@@ -42,7 +42,7 @@ a{
 .subdescription{
     font: 14px Verdana, sans-serif;
 }
-#wrapper {
+.container {
     width: 980px;
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
@@ -177,5 +177,9 @@ article {
 @media screen and (max-width:480px){
     aside{
         display:none;
+    }
+     ul{
+        width:auto:
+        float:none;
     }
 }
