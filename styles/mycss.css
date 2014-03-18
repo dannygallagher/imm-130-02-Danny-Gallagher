@@ -138,6 +138,7 @@ article {
 
 #page-footer {
     border: 1px solid #2f8f00;
+    height:50px;
     clear: left;
     background:#2f8f00;
     /*color:#ffffff;*/
