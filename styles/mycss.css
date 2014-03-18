@@ -46,7 +46,7 @@ a{
     width: 980px;
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
-    height: 700px;
+    height: 600px;
     background:#ffffff;
 }
 
@@ -129,7 +129,7 @@ article {
     
     background: #95ee6b;
     width:68%;
-    height:580px;
+    height:480px;
     float: left;
     padding left: 30px;
     padding:0px 15px 0px 15px;
@@ -144,7 +144,7 @@ article {
 }
 
 @media screen and (max-width: 992px) {
-    #wrapper{
+    .container{
         width:94%;
         
     }
