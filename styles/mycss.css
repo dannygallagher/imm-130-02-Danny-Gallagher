@@ -77,8 +77,8 @@ aside {
     border: 1px solid #2f8f00;
     background:#2f8f00;
     /*color:#ffffff;*/
-  height:432px;
-    width:324px;
+  height:40%;
+    width:30%;
     float: left;
     margin: 10px 0px 0px 10px;
     text-align:left;
@@ -128,8 +128,8 @@ a{
 article {
     
     background: #95ee6b;
-    width:592px;
-    height:1000px;
+    width:68%;
+    height:60%;
     float: left;
     padding left: 30px;
     padding:0px 15px 0px 15px;
@@ -146,6 +146,7 @@ article {
 @media screen and (max-width: 992px) {
     #wrapper{
         width:94%;
+        
     }
     article{
         width:68%;
@@ -153,8 +154,8 @@ article {
     aside{
         width:30%;
     }
-    ul{
-        width:94%;
+    a{
+        width:18%;
     }
 }
 
@@ -168,7 +169,7 @@ article {
         width:auto:
         float:none;
     }
-    ul{
+    a{
         width:auto:
         float:none;
     }
@@ -178,7 +179,11 @@ article {
     aside{
         display:none;
     }
-     ul{
+    article{
+        width:90%
+        float:none;
+    }
+     a{
         width:auto:
         float:none;
     }
