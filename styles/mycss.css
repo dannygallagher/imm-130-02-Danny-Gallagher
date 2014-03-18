@@ -142,3 +142,33 @@ article {
     background:#2f8f00;
     /*color:#ffffff;*/
 }
+
+@media screen and (max-width: 992px) {
+    #wrapper{
+        width:94%;
+    }
+    article{
+        width:68%;
+    }
+    aside{
+        width:30%;
+    }
+}
+
+@media screen and (max-width:786px){
+    article{
+        width:auto;
+        float:none;
+        
+    }
+    aside{
+        width:auto:
+        float:none;
+    }
+}
+
+@media screen and (max-width:480px){
+    aside{
+        display:none;
+    }
+}
