@@ -46,7 +46,7 @@ a{
     width: 980px;
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
-    height: 1000px;
+    height: 700px;
     background:#ffffff;
 }
 
@@ -129,7 +129,7 @@ article {
     
     background: #95ee6b;
     width:68%;
-    height:686px;
+    height:580px;
     float: left;
     padding left: 30px;
     padding:0px 15px 0px 15px;
