@@ -3,27 +3,27 @@ font-family: Arial, Helvetica, sans-serif
 }
 h1 {
     font: 50px Museo Slab bold, serif;
-    color: #2f8f00;
+    color: #FFAA00;
 }
 h2{
     font: 37px Museo Slab, serif;
-    color: #2f8f00;
+    color: #FFAA00;
 }
 h3{
     font: 37px Museo Slab, bold, serif;
-    color:#95ee6b;
+    color:#FFAA00;
 }
 p{
     font: 16px Verdana, sans-serif;
-    color: #2f8f00;
+    color: #FFAA00;
 }
 .aside-text{
 font: 16px Verdana bold, sans-serif
-color: #2f8f00;
+color: #FFAA00;
 }
 li{
 font: 16px Verdana, sans-serif;
-color:#95ee6b;
+color:#6c8cd5;
 }
 
 .page-footer{
@@ -47,7 +47,7 @@ a{
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
     height: 800px;
-    background:#ffffff;
+    background:#000000;
 }
 
 header {
@@ -58,10 +58,10 @@ header {
 }
 
 .page-header{
-     background:#ffffff;
+     background:#000000;
 }
 .page-title{
- color: #48dd00;   
+ color: #FFAA00;   
 }
 
 .article-header {
@@ -70,7 +70,7 @@ header {
 }
 
 .current-page{
-    color: #95ee6b;
+    color: #FFAA00;
 }
 
 aside {
@@ -96,7 +96,7 @@ aside ul{
 }
 nav{
     text-align:center;
-    background:#2f8f00;
+    background:#333333;
 }
 ul{
     list-style-type:none;
@@ -131,7 +131,7 @@ a{
 
 article {
     
-    background: #95ee6b;
+    background: #;
     width:68%;
     height:630px;
     float: left;
