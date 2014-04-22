@@ -132,19 +132,18 @@ a{
 }
 
 .game{
-    width: 600px;
-    height: 600px;
+    width: 450px;
+    height: 450px;
     padding: 20px ;
 }
 
 article {
     
     background: #95ee6b;
-    width:68%;
-    height:630px;
+    height:1000px;
     float: left;
     padding left: 30px;
-    padding:0px 15px 0px 15px;
+    padding:40px 40px 40px 40px;
     margin:50px 50px 50px 50px;
 }
 
