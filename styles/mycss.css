@@ -49,7 +49,7 @@ a{
     width:980px;
     height:5000px;
     
-    background:#95ee6b;
+    background:#000000;
 }
 
 header {
@@ -60,7 +60,7 @@ header {
 }
 
 .page-header{
-     background:#2f8f00;
+     background:#000000;
 }
 .page-title{
  color: #48dd00;   
@@ -139,7 +139,7 @@ a{
 
 article {
     
-    background: #ffffff;
+    background: #95ee6b;
     height:800px;
     float: left;
     padding left: 30px;
