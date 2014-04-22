@@ -46,6 +46,8 @@ a{
     
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
+    width:980px;
+    height:5000px;
     
     background:#ffffff;
 }
@@ -143,7 +145,7 @@ article {
     float: left;
     padding left: 30px;
     padding:0px 15px 0px 15px;
-    margin:0px 0px 0px 10px;
+    margin:50px 50px 50px 50px;
 }
 
 #page-footer {
