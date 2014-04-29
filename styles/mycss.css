@@ -188,9 +188,9 @@ article {
     }
     aside{
         display:none;
-        width:auto:
-        height:auto;
-        float:none;
+       /* width:auto:
+        /* height:auto;
+        /* float:none;
     }
     a{
         width:auto:
