@@ -49,7 +49,7 @@ a{
     width:980px;
     height:5000px;
     
-background:#cccccc;
+background:#dddddd;
 
 }
 
@@ -64,11 +64,11 @@ header {
      background:#000000;
 }
 .page-title{
- color: #cccccc;   
+ color: #dddddd;   
 }
 
 .article-header {
-    background:#95ee6b;
+    background:#ffffff;
     text-align: left;
 }
 
@@ -81,8 +81,8 @@ header {
 }
 
 aside {
-    border: 1px solid #000000;
-    background:#cccccc;
+    border: 1px solid #bbbbbb;
+    background:#dddddd;
     /*color:#ffffff;*/
   height:1000px;
     width:30%;
