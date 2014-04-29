@@ -49,13 +49,7 @@ a{
     width:980px;
     height:5000px;
     
-   #grad
-{
-background: -webkit-linear-gradient(#FFFFFF, black); /* For Safari 5.1 to 6.0 */
-background: -o-linear-gradient(#ffffff, black); /* For Opera 11.1 to 12.0 */
-background: -moz-linear-gradient(#ffffff, black); /* For Firefox 3.6 to 15 */
-background: linear-gradient(#ffffff, black); /* Standard syntax */
-}
+background:#222222;
 
 }
 
