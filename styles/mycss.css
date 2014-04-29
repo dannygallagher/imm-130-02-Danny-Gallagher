@@ -49,7 +49,14 @@ a{
     width:980px;
     height:5000px;
     
-    background:#222222;
+   #grad
+{
+background: -webkit-linear-gradient(white, black); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(white, black); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(white, black); /* For Firefox 3.6 to 15 */
+background: linear-gradient(white, black); /* Standard syntax */
+}
+
 }
 
 header {
