@@ -49,7 +49,7 @@ a{
     width:980px;
     height:5000px;
     
-background:#222222;
+background:#cccccc;
 
 }
 
@@ -64,7 +64,7 @@ header {
      background:#000000;
 }
 .page-title{
- color: #48dd00;   
+ color: #cccccc;   
 }
 
 .article-header {
@@ -81,8 +81,8 @@ header {
 }
 
 aside {
-    border: 1px solid #ffffff;
-    background:#000000;
+    border: 1px solid #000000;
+    background:#cccccc;
     /*color:#ffffff;*/
   height:1000px;
     width:30%;
@@ -144,7 +144,7 @@ a{
 
 article {
     
-    background: #95ee6b;
+    background: #ffffff;
     height:800px;
     float: left;
     padding left: 30px;
