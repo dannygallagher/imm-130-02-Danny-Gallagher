@@ -56,6 +56,7 @@ background:#dddddd;
 .top-bar[
 width=100%;
 height=300px;
+margin:0px;
 ]
 header {
     width: 100%;
