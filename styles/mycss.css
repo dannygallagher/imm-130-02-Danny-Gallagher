@@ -101,9 +101,19 @@ aside {
     margin: 20px 20px 20px 20px;
     text-align:left;
     padding: 0px 10px 0px 10px;
+
    
 }
 
+.aside-left{
+    border: 1px solid #66c266;
+    background: #e6f5e6;
+}
+
+.aside-right{
+    background: #ffffff;
+    border: 1px solid #b2e0b2;
+}
 aside li{
     list-style-position:outside;
     padding-top: 10px;
@@ -156,6 +166,7 @@ a{
 article {
     
     background: #ffffff;
+    border: 1px solid #b2e0b2;
     height:800px;
     float: left;
     padding left: 30px;
