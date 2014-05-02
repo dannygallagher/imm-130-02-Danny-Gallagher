@@ -45,10 +45,11 @@ a{
 .subdescription{
     font: 14px Verdana, sans-serif;
 }
-
+.navbar{
 .navbar-inner{
     background-color:#007a00;
     background-image:none;
+}
 }
 
 .top-bar{
@@ -138,8 +139,8 @@ a{
     
 
 .icon{
-    width: 99px;
-    height: 99px;
+    width: 60px;
+    height: 60px;
     padding: 20px;
 }
 
