@@ -31,7 +31,7 @@ color:#ffffff;
     color: #95ee6b;
 }
 
-body{ padding-top: 300px;}
+body{ padding-top: 70px;}
 
 a{
   font: 16px Verdana, sans-serif;
@@ -46,7 +46,7 @@ a{
 }
 
 .navbar-inner{
-    background:#007a00;
+    background-color:#007a00;
 }
 
 .top-bar{
