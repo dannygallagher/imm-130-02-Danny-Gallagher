@@ -31,6 +31,8 @@ color:#ffffff;
     color: #95ee6b;
 }
 
+body{ padding-top: 300px;}
+
 a{
   font: 16px Verdana, sans-serif;
 }
@@ -43,6 +45,9 @@ a{
     font: 14px Verdana, sans-serif;
 }
 
+.navbar-inner{
+    background:#007a00;
+}
 
 .top-bar{
 width=100%;
