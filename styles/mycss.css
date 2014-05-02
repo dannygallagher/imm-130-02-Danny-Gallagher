@@ -46,8 +46,9 @@ a{
     font: 14px Verdana, sans-serif;
 }
 
-.navbar-fixed-top{
+.navbar-inner{
     background-color:#007a00;
+    background-image:none;
 }
 
 .top-bar{
