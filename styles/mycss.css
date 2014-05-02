@@ -55,14 +55,14 @@ width=100%;
 height=300px;
 margin:0px;
 background:#007a00;
-
-/*.top-bar{
+}
+.top-bar{
 width=100%;
 height=300px;
 margin:0px;
 background:#007a00;
-background:#005200; */
-
+background:#005200; 
+}
 .header{
     width: 100%;
     height: 50px;
@@ -181,7 +181,7 @@ article {
     /*color:#ffffff;*/
 }
 
-/*@media screen and (max-width: 992px) {
+@media screen and (max-width: 992px) {
     .container{
         width:94%;
         
@@ -208,9 +208,9 @@ article {
     }
     aside{
         display:none;
-       /* width:auto:
-        /* height:auto;
-        /* float:none;
+        width:auto:
+         height:auto;
+        float:none;
     }
     a{
         width:auto:
@@ -233,4 +233,3 @@ article {
        
     }
 }
-*/
