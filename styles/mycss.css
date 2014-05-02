@@ -92,9 +92,7 @@ background:#005200; */
 }
 
 aside {
-    border: 1px solid #bbbbbb;
-    background:#dddddd;
-    /*color:#ffffff;*/
+   
   height:850px;
     width:30%;
     float: left;
@@ -166,7 +164,7 @@ a{
 article {
     
     background: #ffffff;
-    border: 1px solid #b2e0b2;
+  
     height:800px;
     float: left;
     padding left: 30px;
