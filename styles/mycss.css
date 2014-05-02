@@ -45,10 +45,12 @@ a{
 .subdescription{
     font: 14px Verdana, sans-serif;
 }
-.navbar-default{
-    background-color:#007a00;
-    background-image:none;
+.navbar
+.navbar-inner{
+    background-color: #007a00;
+    background-image: none;
 }
+
 
 
 .top-bar{
