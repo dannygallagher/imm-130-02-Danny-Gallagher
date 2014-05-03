@@ -213,6 +213,7 @@ article {
 .forumsection{
     border:1px solid #b2e0b2;
     padding:20px,20px,10px,10px;
+    height:60px;
 }
 
 #page-footer {
