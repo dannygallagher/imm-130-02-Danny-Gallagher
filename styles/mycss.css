@@ -15,15 +15,15 @@ h3{
 }
 p{
     font: 16px Verdana, sans-serif;
-    color: #2f8f00;
+    color: #000000;
 }
 .aside-text{
 font: 16px Verdana bold, sans-serif
-color: #ffffff;
+color: #000000;
 }
 li{
 font: 16px Verdana, sans-serif;
-color:#ffffff;
+color:#000000;
 }
 
 .page-footer{
@@ -61,7 +61,7 @@ width=100%;
 height=300px;
 margin:0px;
 background:#007a00;
-background:#005200; 
+
 }
 .header{
     width: 100%;
@@ -91,26 +91,33 @@ background:#005200;
     color: #95ee6b;
 }
 
-aside {
-   
-  height:850px;
+
+.aside-left{
+    border: 1px solid #66c266;
+    background: #e6f5e6;
+    height:850px;
     width:30%;
     float: left;
     margin: 20px 20px 20px 20px;
     text-align:left;
     padding: 0px 10px 0px 10px;
 
-   
-}
-
-.aside-left{
-    border: 1px solid #66c266;
-    background: #e6f5e6;
 }
 
 .aside-right{
     background: #ffffff;
     border: 1px solid #b2e0b2;
+    height:850px;
+    width:30%;
+    float: left;
+    margin: 20px 20px 20px 20px;
+    text-align:left;
+    padding: 0px 10px 0px 10px;
+
+}
+
+.newsblock{
+    border:1px solid #b2e0b2;
 }
 aside li{
     list-style-position:outside;
