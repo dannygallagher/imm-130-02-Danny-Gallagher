@@ -128,6 +128,7 @@ aside{
 .newsblock{
     border:1px solid #b2e0b2;
     background-color:#ffffff;
+    padding: 20px, 20px, 10px, 10px;
 
 }
 aside li{
@@ -187,7 +188,7 @@ article {
     float: left;
     padding left: 30px;
     padding:20px 40px 40px 40px;
-    margin:50px 50px 50px 50px;
+    margin:30px 30px 30px 30px;
     
 }
 
