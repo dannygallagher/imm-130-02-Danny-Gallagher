@@ -91,10 +91,19 @@ background:#007a00;
     color: #95ee6b;
 }
 
-
+aside{
+  border: 1px solid #66c266;
+    background: #ccebcc;
+    height:850px;
+    width:30%;
+    float: left;
+    margin: 20px 20px 20px 20px;
+    text-align:left;
+    padding: 0px 10px 0px 10px;   
+}
 .aside-left{
     border: 1px solid #66c266;
-    background: #e6f5e6;
+    background: #ccebcc;
     height:850px;
     width:30%;
     float: left;
