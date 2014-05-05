@@ -91,7 +91,9 @@ background:#007a00;
    
     text-align: right;
 }
-
+.profileinfo{
+    height: 250px;
+}
 .page-header{
     width:100%;
      background:#005200;
