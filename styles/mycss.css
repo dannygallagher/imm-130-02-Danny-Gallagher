@@ -204,6 +204,7 @@ ul{
 .threadpic{
     width: 250px;
     height: 250px;
+    border: 3px solid #b2e0b2;
 }
 
 .game{
