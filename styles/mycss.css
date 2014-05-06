@@ -117,7 +117,16 @@ background:#007a00;
 .mainsearch{
     width:400px;
 }
+.title{
+    padding: 15px;
+    margin-right:0px;
+}
 
+.titlepic{
+    padding: 15px;
+    margin-left:0px;
+    margin-right:20px;
+}
 .motto{
     height:600px;
     padding: 20px;
