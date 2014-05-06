@@ -40,6 +40,11 @@ h4{
     color:#007a00;  
 
 }
+
+.link{
+    color:#007a00;
+    font:bold;
+}
 .gametitle{
     font: 20px Museo Slab, serif;
     color:#007a00;  
@@ -66,7 +71,7 @@ body{ padding-top: 130px;}
 
 a{
   font: 16px Verdana, sans-serif;
-  color:#ffffff;
+  
 }
 
 .description{
@@ -240,7 +245,8 @@ background:#007a00;
 .threadsection2{
       border:1px solid #b2e0b2;
       height: 343px;
-     margin:0px;
+      padding:30px;
+      margin:0px;
 }
 .header{
     width: 100%;
@@ -373,8 +379,8 @@ ul{
     
 }
 .threadpic1{
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     
 }
 .threadpic2{
