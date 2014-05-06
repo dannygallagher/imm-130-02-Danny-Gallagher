@@ -156,15 +156,24 @@ background:#007a00;
     margin:50px;
     margin-left:300px;
 }
+.gamepage{
+    margin-left:8.5%;
+    margin-right:8.5%;
+}
 .commentsection{
     
       border:1px solid #ffffff;
       height: 150px;
       padding: 30px;
+      margin-top:30px;
       background-color: #b2e0b2;
 }
 .commentbutton{
     background-color: #b2e0b2;
+    margin:20px;
+}
+.commenttyper{
+    padding:15px;
 }
 .threadtitle{
     height:500px;
