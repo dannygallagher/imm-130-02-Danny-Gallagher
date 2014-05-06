@@ -304,11 +304,18 @@ aside{
 }
 
 .newsblock{
+    margin-top:10px;
+    margin-bottom:10px;
     margin:20px,20px,10px,10px;
     background-color:#b2e0b2;
-    padding: 20px, 20px, 10px, 10px;
+    padding: 20px;
     height:75px;
 
+}
+
+.aside-header{
+     font: 37px Museo Slab, bold, serif;
+    color:#95ee6b;
 }
 aside li{
     list-style-position:outside;
