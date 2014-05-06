@@ -79,6 +79,15 @@ background:#007a00;
 
 }
 
+.invisible{
+    height=800px;
+    padding: 100px, 200px, 200px, 200px;
+}
+
+.startbox{
+    height= 800px;
+    padding=100px;
+}
 .threadtitle{
     height:500px;
     border: 7px solid #b2e0b2;
@@ -257,6 +266,7 @@ ul{
 article {
     
     background: #ffffff;
+    border: 7px solid #b2e0b2;
   
     height:800px;
     float: left;
