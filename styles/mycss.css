@@ -83,7 +83,7 @@ padding:15px;
     background-color: #ffffff;
 }
 
-.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+.navpill>li.active>a, .navpills>li.active>a:hover, .navpill>li.active>a:focus {
   color: #007a00;
   background-color: #99d699;
 }
