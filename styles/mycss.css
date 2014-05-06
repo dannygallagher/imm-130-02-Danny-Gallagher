@@ -197,7 +197,9 @@ background:#007a00;
       background-color: #b2e0b2;
 }
 .commentsection2{
-     border:1px solid #007a00;
+     border:1px solid #b2e0b2;
+      height: 175px;
+      padding: 20px;
 }
 .commentbutton{
     background-color: #b2e0b2;
