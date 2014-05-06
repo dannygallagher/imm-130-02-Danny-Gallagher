@@ -118,12 +118,12 @@ background:#007a00;
     width:400px;
 }
 .title{
-    padding: 15px;
+    padding-bottom: 15px;
     margin-right:0px;
 }
 
 .titlepic{
-    padding: 15px;
+    padding-bottom: 15px;
     margin-left:0px;
     margin-right:20px;
 }
@@ -133,7 +133,7 @@ background:#007a00;
 }
 
 .placehold{
-  height:800px;  
+  margin-left:12.5%;  
 }
 
 .startbox{
@@ -222,7 +222,7 @@ background:#007a00;
 aside{
   border: 1px solid #66c266;
     background: #b2e0b2;
-    height:850px;
+    height:1000px;
     width:30%;
     float: left;
     margin: 20px 20px 20px 20px;
