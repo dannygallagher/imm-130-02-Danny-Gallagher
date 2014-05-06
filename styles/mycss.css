@@ -88,14 +88,14 @@ background:#007a00;
 background-image: none;
 }
 
-.invisible{
-    height=600px;
+.motto{
+    height:600px;
     padding: 20px;
 }
 
 .startbox{
-    height= 600px;
-    padding=30px;
+    height:600px;
+    padding:30px;
     float:right;
     margin:50px;
     margin-left:300px;
