@@ -164,13 +164,13 @@ background:#007a00;
 .comment{
   margin:30px;
       background-color: #b2e0b2;  
-        padding: 30px;
-         height: 150px;
+        
+         height: 250px;
 }
 .commentsection{
     
       border:1px solid #ffffff;
-      height: 150px;
+      height: 250px;
       padding: 30px;
       
       background-color: #b2e0b2;
@@ -293,8 +293,8 @@ aside{
 }
 
 .newsblock{
-    border:1px solid #b2e0b2;
-    background-color:#ffffff;
+    margin:20px,20px,10px,10px;
+    background-color:#b2e0b2;
     padding: 20px, 20px, 10px, 10px;
 
 }
@@ -346,7 +346,10 @@ ul{
     height: 250px;
     
 }
-
+.commentpic{
+    width:150px;
+    height:150px;
+}
 .threadpicsmall{
     width:200px;
     height:200px;
