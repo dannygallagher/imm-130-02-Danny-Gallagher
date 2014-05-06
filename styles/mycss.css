@@ -88,10 +88,11 @@ background:#007a00;
 }
 
 .startbox{
-    height= 500px;
+    height= 350px;
     padding=100px;
     float:right;
     margin:50px;
+    margin-left:300px;
 }
 .threadtitle{
     height:500px;
@@ -271,7 +272,7 @@ ul{
 article {
     
     background: #ffffff;
-    border: 7px solid #b2e0b2;
+   /* border: 7px solid #b2e0b2;*/
   
     height:800px;
     float: left;
