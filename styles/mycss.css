@@ -117,9 +117,13 @@ background:#007a00;
 .mainsearch{
     width:400px;
 }
-.gamesearchheader{
+.GameSearchHeader{
     height:200px;
     width: 80%;
+}
+
+.gamebox{
+    height: 1050px;
 }
 .title{
     padding-bottom: 15px;
@@ -226,7 +230,7 @@ background:#007a00;
 aside{
   border: 1px solid #66c266;
     background: #b2e0b2;
-    height:1000px;
+    height:1200px;
     width:30%;
     float: left;
     margin: 20px 20px 20px 20px;
