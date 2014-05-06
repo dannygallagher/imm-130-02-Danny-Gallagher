@@ -17,10 +17,8 @@ h4{
     font: 50px Museo Slab, bold, serif;
     color:#ffffff;
 }
-.gametitle{
-    font: 28px Museo Slab, bold, serif;
-    color:#007a00; 
-}
+
+
 .marginized{
     margin:20px;
 }
@@ -49,7 +47,7 @@ h4{
     font:bold;
 }
 .gametitle{
-    font: 20px Museo Slab, serif;
+    font: 28px Museo Slab, serif;
     color:#007a00;  
 }
 p{
@@ -168,7 +166,7 @@ background:#007a00;
 }
 
 .placehold{
-  margin-left:15%;  
+  margin-left:17.5%;  
 }
 
 .startbox{
