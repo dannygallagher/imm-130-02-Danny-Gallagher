@@ -89,12 +89,12 @@ background-image: none;
 }
 
 .invisible{
-    height=300px;
+    height=600px;
     padding: 20px;
 }
 
 .startbox{
-    height= 250px;
+    height= 600px;
     padding=30px;
     float:right;
     margin:50px;
