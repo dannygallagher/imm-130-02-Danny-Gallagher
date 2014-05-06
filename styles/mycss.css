@@ -75,6 +75,7 @@ a{
 .green{
    background: #007a00; /* Old browsers */
 height: 100px;
+padding:15px;
 }
 .container{
 width:100%;
@@ -90,7 +91,9 @@ background:#007a00;
 
 }
 
-
+.mainsearch{
+    width:400px;
+}
 
 .motto{
     height:600px;
