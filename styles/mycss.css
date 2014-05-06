@@ -81,15 +81,18 @@ background:#007a00;
 
 .threadtitle{
     height:500px;
-    border: 3px solid #b2e0b2;
+    border: 7px solid #b2e0b2;
 }
 .threadpost1{
     height:300px;
-    border: 3px solid #b2e0b2;
+    border: 7px solid #b2e0b2;
 }
 .threadpost2{
     height:350px;
-    border: 3px solid #b2e0b2;
+    border: 7px solid #b2e0b2;
+}
+.threadsection{
+    border:1px solid #b2e0b2;
 }
 .header{
     width: 100%;
@@ -211,6 +214,11 @@ ul{
     width: 250px;
     height: 250px;
     
+}
+
+.threadpicsmall{
+    width:200px;
+    height:200px;
 }
 
 .game{
