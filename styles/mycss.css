@@ -91,8 +91,35 @@ background:#007a00;
     height:350px;
     border: 7px solid #b2e0b2;
 }
-.threadsection{
+.threadtitlesection{
     border:1px solid #b2e0b2;
+   height:100px
+    
+}
+.threadsection{
+      border:1px solid #b2e0b2;
+      height: 400px;
+      padding: 30px;
+}
+.threadtitlesection1{
+    border:1px solid #b2e0b2;
+   height:100px
+    
+}
+.threadsection1{
+      border:1px solid #b2e0b2;
+      height: 400px;
+      padding: 30px;
+}
+.threadtitlesection2{
+    border:1px solid #b2e0b2;
+   height:100px
+    
+}
+.threadsection2{
+      border:1px solid #b2e0b2;
+      height: 400px;
+      padding: 30px;
 }
 .header{
     width: 100%;
