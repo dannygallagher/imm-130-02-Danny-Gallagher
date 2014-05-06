@@ -123,7 +123,8 @@ background:#007a00;
 }
 
 .gamebox{
-    height: 1050px;
+    height: 500px;
+    border: 7px solid #b2e0b2;
 }
 .title{
     padding-bottom: 15px;
