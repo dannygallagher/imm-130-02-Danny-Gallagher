@@ -117,6 +117,10 @@ background:#007a00;
 .mainsearch{
     width:400px;
 }
+.gamesearchheader{
+    height:200px;
+    width: 80%;
+}
 .title{
     padding-bottom: 15px;
     margin-right:0px;
@@ -200,7 +204,7 @@ background:#007a00;
 }
 .page-title{
  color: #ffffff;  
- padding:15px;
+ padding-bottom:15px;
 }
 
 .article-header {
@@ -299,7 +303,7 @@ ul{
 .icon{
     width: 80px;
     height: 80px;
-    padding: 20px;
+    padding-bottom: 20px;
 }
 
 .threadpic{
