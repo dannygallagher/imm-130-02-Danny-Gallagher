@@ -132,6 +132,10 @@ background:#007a00;
     padding: 20px;
 }
 
+.placehold{
+  height:800px;  
+}
+
 .startbox{
     height:600px;
     padding:30px;
