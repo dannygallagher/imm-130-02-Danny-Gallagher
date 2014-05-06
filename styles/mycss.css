@@ -204,10 +204,12 @@ background:#007a00;
 .threadpost1{
     height:300px;
     border: 7px solid #b2e0b2;
+    padding:0px;
 }
 .threadpost2{
     height:350px;
     border: 7px solid #b2e0b2;
+    padding:0px;
 }
 .threadtitlesection{
     border:1px solid #b2e0b2;
@@ -216,7 +218,7 @@ background:#007a00;
 }
 .threadsection{
       border:1px solid #b2e0b2;
-      height: 380px;
+      height: 393px;
       padding: 30px;
 }
 .threadtitlesection1{
@@ -226,8 +228,9 @@ background:#007a00;
 }
 .threadsection1{
       border:1px solid #b2e0b2;
-      height: 300px;
+      height: 293px;
       padding: 30px;
+      margin:0px;
 }
 .threadtitlesection2{
     border:1px solid #b2e0b2;
@@ -236,8 +239,8 @@ background:#007a00;
 }
 .threadsection2{
       border:1px solid #b2e0b2;
-      height: 350px;
-      padding: 30px;
+      height: 343px;
+     margin:0px;
 }
 .header{
     width: 100%;
@@ -367,6 +370,16 @@ ul{
 .threadpic{
     width: 250px;
     height: 250px;
+    
+}
+.threadpic1{
+    width: 150px;
+    height: 150px;
+    
+}
+.threadpic2{
+    width: 200px;
+    height: 200px;
     
 }
 .commentpic{
