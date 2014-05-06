@@ -19,7 +19,7 @@ h4{
 }
 
 .marganized{
-    margin:10px;
+    margin:20px;
 }
 .mottotext{
     font: 50px Museo Slab, bold, serif;
@@ -169,13 +169,13 @@ background:#007a00;
       background-color: #b2e0b2;  
         margin-top:5px;
         margin-bottom:5px;
-         height: 150px;
+         height: 175px;
 }
 .commentsection{
     
       border:1px solid #ffffff;
-      height: 150px;
-      padding: 30px;
+      height: 175px;
+      padding: 20px;
       
       background-color: #b2e0b2;
 }
