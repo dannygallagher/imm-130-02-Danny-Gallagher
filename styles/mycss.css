@@ -152,6 +152,16 @@ background:#007a00;
     margin:50px;
     margin-left:300px;
 }
+.commentsection{
+    
+      border:1px solid #ffffff;
+      height: 150px;
+      padding: 30px;
+      background-color: #b2e0b2;
+}
+.commentbutton{
+    background-color: #b2e0b2;
+}
 .threadtitle{
     height:500px;
     border: 7px solid #b2e0b2;
