@@ -40,6 +40,11 @@ h4{
     color:#007a00;  
 
 }
+
+.link{
+    color:#007a00;
+    font:bold;
+}
 .gametitle{
     font: 20px Museo Slab, serif;
     color:#007a00;  
@@ -66,7 +71,7 @@ body{ padding-top: 130px;}
 
 a{
   font: 16px Verdana, sans-serif;
-  color:#ffffff;
+  
 }
 
 .description{
