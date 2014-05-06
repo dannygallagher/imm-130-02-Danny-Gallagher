@@ -77,6 +77,18 @@ a{
 height: 100px;
 padding:15px;
 }
+
+.greenpill .active a,
+.greenpill .active a:hover {
+    background-color: #ffffff;
+}
+.search{
+    margin-left:20px;
+    margin-right:0px;
+}
+.go{
+    margin-left:0px;
+}
 .container{
 width:100%;
 height:300px;
