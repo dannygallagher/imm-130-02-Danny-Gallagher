@@ -82,14 +82,20 @@ background:#007a00;
 
 }
 
+.navbar
+.navbar-inner{
+background:#007a00;
+background-image: none;
+}
+
 .invisible{
-    height=800px;
-    padding: 100px, 200px, 200px, 200px;
+    height=300px;
+    padding: 20px;
 }
 
 .startbox{
-    height= 350px;
-    padding=100px;
+    height= 250px;
+    padding=30px;
     float:right;
     margin:50px;
     margin-left:300px;
