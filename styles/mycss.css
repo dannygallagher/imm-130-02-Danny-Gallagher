@@ -201,6 +201,11 @@ ul{
     padding: 20px;
 }
 
+.threadpic{
+    width: 250px;
+    height: 250px;
+}
+
 .game{
     width: 450px;
     height: 450px;
