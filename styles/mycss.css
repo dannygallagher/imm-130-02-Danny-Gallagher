@@ -18,7 +18,7 @@ h4{
     color:#ffffff;
 }
 
-.marganized{
+.marginized{
     margin:20px;
 }
 
@@ -127,6 +127,7 @@ background:#007a00;
 }
 .profilename{
     padding-left:10px;
+    margin-left:15px;
 }
 
 .mainsearch{
