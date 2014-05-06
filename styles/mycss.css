@@ -165,22 +165,25 @@ background:#007a00;
 }
 
 .comment{
-  margin:30px;
+  margin-left:50px;
       background-color: #b2e0b2;  
-        
-         height: 250px;
+        margin-top:5px;
+        margin-bottom:5px;
+         height: 150px;
 }
 .commentsection{
     
       border:1px solid #ffffff;
-      height: 250px;
+      height: 150px;
       padding: 30px;
       
       background-color: #b2e0b2;
 }
 .commentbutton{
     background-color: #b2e0b2;
-    margin:20px;
+    margin-left:50px;
+    margin-top:10px;
+    margin-bottom:5px;
 }
 .commenttyper{
     padding:15px;
@@ -350,8 +353,8 @@ ul{
     
 }
 .commentpic{
-    width:150px;
-    height:150px;
+    width:100px;
+    height:100px;
 }
 .threadpicsmall{
     width:200px;
