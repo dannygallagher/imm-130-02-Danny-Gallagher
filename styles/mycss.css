@@ -77,6 +77,11 @@ a{
 height: 100px;
 padding:15px;
 }
+
+.greenpill .active a,
+.greenpill .active a:hover {
+    background-color: #ffffff;
+}
 .container{
 width:100%;
 height:300px;
