@@ -11,7 +11,7 @@ h2{
 }
 h3{
     font: 37px Museo Slab, bold, serif;
-    color:#95ee6b;
+    color:#007a00;
 }
 h4{
     font: 50px Museo Slab, bold, serif;
@@ -124,6 +124,9 @@ height=300px;
 margin:0px;
 background:#007a00;
 
+}
+.profilename{
+    padding-left:10px;
 }
 
 .mainsearch{
@@ -272,7 +275,7 @@ background:#007a00;
 aside{
   border: 1px solid #66c266;
     background: #b2e0b2;
-    height:1200px;
+    height:1250px;
     width:30%;
     float: left;
     margin: 20px 20px 20px 20px;
