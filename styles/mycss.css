@@ -13,7 +13,10 @@ h3{
     font: 37px Museo Slab, bold, serif;
     color:#95ee6b;
 }
-
+h3{
+    font: 50px Museo Slab, bold, serif;
+    color:#ffffff;
+}
 .forumlink{
   font: 37px Museo Slab, bold, serif;
     color:#007a00; 
@@ -87,6 +90,8 @@ background:#007a00;
 .startbox{
     height= 800px;
     padding=100px;
+    float:right;
+    margin:50px;
 }
 .threadtitle{
     height:500px;
