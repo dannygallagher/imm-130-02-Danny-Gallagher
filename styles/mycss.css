@@ -195,7 +195,8 @@ background:#007a00;
      background:#005200;
 }
 .page-title{
- color: #ffffff;   
+ color: #ffffff;  
+ padding:15px;
 }
 
 .article-header {
